@@ -1,0 +1,19 @@
+body{
+    background-color: wheat;
+    margin: 0;
+}
+H1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Navigator a {
+    display: block;
+    text-decoration: none;
+    color:brown;
+
+}
+
+.Navigator a:hover {
+    
+    color: red;
+
+}
